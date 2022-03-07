@@ -2,7 +2,7 @@
  
 Edit the Mystery Box so that the prize doubles each time you gamble.
 
-Feel free to use this mod for whatever you like to do but please 
+Feel free to use or change this.
 
 
 
